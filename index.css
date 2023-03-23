@@ -16,17 +16,3 @@ table td {
 .tr1 {
     background-color: #DDD;
 }
-p {
-    text-align: center;
-    font-weight: bold;
-    font-family: 'Pacifico', cursive;
-    font-size: 20px;
-    color: blue;
-}
-.p {
-    font-family: 'IBM Plex Sans Arabic', sans-serif;
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
-    color: blue;
-}
